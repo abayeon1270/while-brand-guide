@@ -1,0 +1,1 @@
+Extract this ZIP. Upload all contents to your hosting folder. Keep index.html at the root, alongside assets/, styles.css and app.js. No build command is required. For GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root) > Save. Standard GitHub Pages hosting is publicly accessible.
