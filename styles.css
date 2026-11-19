@@ -33,4 +33,4 @@ p,figcaption{text-wrap:pretty}
 
 /* Centre each variation sheet over its accompanying text box. */
 .sheets figure{text-align:center}
-.sheets figcaption{text-align:center}
+.sheets figcaption{text-align:left}
